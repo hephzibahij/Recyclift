@@ -321,7 +321,7 @@ header .login-form input[type="submit"]:hover{
 .call{
     margin: 15rem 0;
     background: linear-gradient(rgba( 0, 0, 0, 0.4), rgba(0,0,0,0.5)),
-        url(../img/cta-bg.jpg) center no-repeat;
+        url(./images/contactimage\ \(1\).png) center no-repeat;
     background-attachment: fixed;
     height: 40rem;
     width: 100%;
@@ -394,7 +394,7 @@ header .login-form input[type="submit"]:hover{
 }
 .count .row .box h1{
     font-size: 3.5rem;
-    margin: 1rem;
+    margin: 1rem 0.5rem;
 }
 .count .row .box p{
     font-size: 2rem;
@@ -431,7 +431,7 @@ header .login-form input[type="submit"]:hover{
 .chose{
     margin: 15rem 0;
     background: linear-gradient(rgba( 0, 0, 0, 0.6), rgba(0,0,0,0.7)),
-        url(../img/testimonials-bg.jpg) center no-repeat;
+        url(./images/domain\ \(1\).jpeg) center no-repeat;
     background-attachment: fixed;
     height: 40rem;
     width: 100%;
